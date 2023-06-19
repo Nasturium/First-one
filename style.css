@@ -1,0 +1,12 @@
+/*Global*/
+.main {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.one {
+    display: flex;
+    padding-top: 10px;
+    
+
+}
