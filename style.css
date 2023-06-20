@@ -8,6 +8,7 @@
 .one {
     display: flex;
     padding-top: 10px;
+    color: blue;
 }
 
 h1 {
